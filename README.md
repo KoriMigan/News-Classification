@@ -61,7 +61,7 @@
 - [Winfred Muthoni](https://github.com/WinnieKabuya)
 ---
 ### [License](#license)
-> This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+> This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
 ---
 ### [Acknowledgements](#acknowledgements)
 #### Institution
