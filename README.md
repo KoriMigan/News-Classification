@@ -20,7 +20,8 @@
 > #### General Objectives
 > * Ensure consistency and accuracy in news categorization.
 > * Streamline the news outlet's operations by implementing a robust text classification model.
-> ####Specific Objectives
+> 
+## Specific Objectives
 > * To develop a machine learning model that can accurately classify East African news articles into relevant categories or topics.
 > * To provide an API that integrates with existing news platforms or search engines, enabling easy adoption and integration for news organizations and content providers.
 ---
@@ -54,10 +55,10 @@
 >
 > The following people have contributed to this project:
 - [Fiona Njuguna](https://github.com/KoriMigan)
-- [Fiona Kungu]
+- [Fiona Kungu](https://github.com/Fiona-Kungu)
 - [Daniel Nyamweya](https://github.com/Daniel1999Akama)
 - [Edwin Muhiu](https://github.com/rurungamuhia)
-- [Steve Githinji]
+- [Steve Githinji](https://github.com/stevegithinji)
 - [Winfred Muthoni](https://github.com/WinnieKabuya)
 ---
 ### [License](#license)
