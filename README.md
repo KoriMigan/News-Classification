@@ -1,8 +1,14 @@
 # East Africa News Classification
+> The main objective of this project was to develop a machine learning model that can accurately classify East African news articles into relevant categories or topics. Through this project, we have met this objective, and also obtained the following results: accuracy of predicting the swahili news category is at around 81%. This meets and surpasses our success metric of 75% accuracy.
+> News articles were obtained from kaggle containing over 20,000 rows and additional data was scraped from TAIFA LEO website.
+> The column <b>label</b> is the target. It contains 6 distinct categories.
+> The rationale for predicting this target is to aid news companies classify their articles without necessarily knowing the theme of the article.
+> The final model i.e. <b>Random Forest</b> perfomed well as described above.
+
+---
 ![alt text](image.jpeg)
 
 ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)  ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)   ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)    ![scikitlearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)    ![nlp](https://img.shields.io/badge/nlp-209117?style=for-the-badge&logo=nlp&logoColor=white)
-> The main objective of this project was to develop a machine learning model that can accurately classify East African news articles into relevant categories or topics. Through this project, we have met this objective, and also obtained the following results: accuracy of predicting the swahili news category is at around 81%. This meets and surpasses our success metric of 75% accuracy.
 ---
 ## Table Of Contents
 - [East Africa News Classification](#East-Africa-News-classification)
