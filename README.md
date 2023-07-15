@@ -78,12 +78,11 @@
 #### Institution
 - [Moringa School](https://moringaschool.com/)
 #### Technologies Used
-- [Flask](https://flask.palletsprojects.com/)
-- [Scikit-learn](https://scikit-learn.org/)
-- [NLTK](https://www.nltk.org/)
-- [Pandas](https://pandas.pydata.org/)
-- [NumPy](https://numpy.org/)
-- [Matplotlib](https://matplotlib.org/)
-- [Postman](https://www.postman.com/downloads/)
+- [Flask](https://flask.palletsprojects.com/) for deploying model as API.
+- [Scikit-learn](https://scikit-learn.org/) for creating the models.
+- [NLTK](https://www.nltk.org/) for text preprocessing.
+- [Pandas](https://pandas.pydata.org/) for data manipulation.
+- [Matplotlib](https://matplotlib.org/) for visulizations.
+- [Postman](https://www.postman.com/downloads/) for testing the API.
 ---
 > Thank you for reading this README.md file. If you have any questions, please contact the contributors of this project.
