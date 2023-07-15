@@ -46,18 +46,20 @@
 - **Recommendation and Conclusion**: it involved offering opinions based on the whole process, proposing a solution to the gap discovered in the research that needs to be filled, and the next steps to be undertaken in future analysis.
 ---
 ### [Installation](#installation)
-> To install the project, follow these steps:
+> To Reproduce the project, follow these steps:
 1. Clone the repository
 2. Install the requirements.txt file ( `pip install -r requirements.txt` )
 3. Run the application (`python api.py')
-4. Open the application in your browser ( `http://localhost:5000` )
+4. The terminal should give you a local URL in the form ( `http://localhost:5000` )
+5. [Link to download original dataset](https://www.kaggle.com/datasets/thedevastator/east-african-news-classification) 
 ---
 ### [Usage](#usage)
 > To test the news API, follow these steps:
 1. Donwload and install postman
-2. Paste the URL (`http://localhost:5000`) in the GET bar.
-3. In the KEY section write 'text' then paste the article in the 'value' section.
-4. You should see the output at the bottom.
+2. Paste the URL (`http://localhost:5000`) in the GET bar the add the predict extension such that the URL on postman look this way (`http://localhost:5000/predict`)
+3. In the KEY section write 'text' and check the checkbox then paste the article in the 'value' section.
+4. Hit the blue button SEND
+5. You should see the output at the bottom of the screen.
 ---
 ### [Contributors](#contributors)
 >
